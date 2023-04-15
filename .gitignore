@@ -3,6 +3,7 @@
 **/*.exe
 **/*.txt
 **/*.bin
+**/.cph
 *.exe
 *.txt
 *.bin
